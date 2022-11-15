@@ -28,6 +28,7 @@ body {
 	font-family: "Roboto", sans-serif;
 	line-height: 1;
 	color: var(--color-white);
+	scroll-behavior: smooth;
 }
 .header {
 	background-color: var(--color-primary);
@@ -102,7 +103,7 @@ ion-icon[name="menu-outline"] {
 	display: flex;
 	flex-direction: column;
 	gap: 2rem;
-	max-width: 50rem;
+	max-width: 60rem;
 	align-self: center;
 }
 .title__info .info__btn {
@@ -123,9 +124,9 @@ ion-icon[name="menu-outline"] {
 }
 
 .title__info .heading__info {
-	font-size: 3rem;
+	font-size: 4.4rem;
 	font-weight: 900;
-	line-height: 1;
+	line-height: 1.2;
 	letter-spacing: 0.1rem;
 }
 
@@ -134,5 +135,5 @@ ion-icon[name="menu-outline"] {
 }
 .img__info img {
 	display: inline-block;
-	width: 50rem;
+	width: 60rem;
 }
