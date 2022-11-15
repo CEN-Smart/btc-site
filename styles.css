@@ -32,7 +32,7 @@ body {
 }
 .header {
 	background-color: var(--color-primary);
-	padding: 4rem 5rem;
+	padding: 4rem 2rem;
 	max-width: 100%;
 }
 .nav {
@@ -89,7 +89,7 @@ ion-icon[name="menu-outline"] {
 }
 .section__info {
 	max-width: 144rem;
-	padding: 5rem;
+	padding: 2rem;
 }
 .container__info {
 	display: flex;
@@ -103,7 +103,7 @@ ion-icon[name="menu-outline"] {
 	display: flex;
 	flex-direction: column;
 	gap: 2rem;
-	max-width: 60rem;
+	max-width: 70rem;
 	align-self: center;
 }
 .title__info .info__btn {
@@ -135,5 +135,5 @@ ion-icon[name="menu-outline"] {
 }
 .img__info img {
 	display: inline-block;
-	width: 60rem;
+	width: 70rem;
 }
