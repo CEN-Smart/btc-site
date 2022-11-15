@@ -94,6 +94,7 @@ ion-icon[name="menu-outline"] {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
+	gap: 2rem;
 	flex-flow: row wrap;
 }
 
@@ -122,7 +123,7 @@ ion-icon[name="menu-outline"] {
 }
 
 .title__info .heading__info {
-	font-size: 6.5rem;
+	font-size: 3rem;
 	font-weight: 900;
 	line-height: 1;
 	letter-spacing: 0.1rem;
